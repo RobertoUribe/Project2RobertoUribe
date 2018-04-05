@@ -1,1 +1,2 @@
-# Project2RobertoUribe
+# JSPlatformer
+JS Platformer for DIG 3480C
